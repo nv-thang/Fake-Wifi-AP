@@ -1,5 +1,5 @@
 # Fake-Wifi-AP
-Fake wifi access point with module NodeMCU ESP8233
+Fake wifi access point with module NodeMCU ESP8266
 Xem chi tiết tại [www.anonyhome.com](https://www.anonyhome.com/2020/05/hack-wifi-su-dung-nodemcu.html)
 
 **Lưu ý**
